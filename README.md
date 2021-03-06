@@ -1,7 +1,6 @@
 # JustAnotherOne
 QWERT
 
+Loading...
 
-I am developer
 
-PLM Professional
